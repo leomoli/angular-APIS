@@ -34,7 +34,6 @@ chrome-profiler-events*.json
 !.vscode/extensions.json
 .history/*
 
-<<<<<<< HEAD
 # Miscellaneous
 /.angular/cache
 .sass-cache/
@@ -45,7 +44,6 @@ testem.log
 /typings
 
 # System files
-=======
 # misc
 /.sass-cache
 /connect.lock
@@ -57,6 +55,5 @@ testem.log
 /typings
 
 # System Files
->>>>>>> 3d50e2cf6417a5886a0d01d7c48f710335b937c6
 .DS_Store
 Thumbs.db
